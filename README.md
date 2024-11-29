@@ -13,7 +13,7 @@ The projects requires NodeJS and npm to work. Instructions to install all other 
 
 ### IPFS
 
-1. Go to the [github page](https://github.com/ipfs/ipfs-desktop) of IPFS and install IPFS Desktop
+1. IPFS Desktop
 
 ### Local server
 
